@@ -16,7 +16,10 @@
 **1.火星互联网交换中心（官网不稳定！）：<a href="https://console.marsix.net/#/login">点击跳转</a>**；
 **2.魔戒机场（速度一般！）：<a href="https://mojie.me/#/dashboard">点击跳转</a>**；  
 
-### 四.遇到问题？先看这里：
+### 首次使用？试试公益机场！（稳定性和安全性不保证！）：
+**1.三藏云（注册送50GB流量）：<a href="https://sanzangyun.cc/#/register?code=rYIvqDqp">立即注册</a>**；
+
+### 遇到问题？先看这里：
 
 **1.下载速度慢？可以试一试<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，或者看一看<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>**；
 
