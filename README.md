@@ -1,8 +1,9 @@
 # 防失联！备用机场与当前账号！
 
 ### 一.安装配套代理软件：
-**1.clash（云盘下载）：<a href="https://michaelzhu.lanzoub.com/b032s57wd">点击跳转</a>（密码:829114）**；
-**2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
+**1.clash汇总包（云盘下载，无需代理）：<a href="https://michaelzhu.lanzoub.com/b032s57wd">点击跳转</a>（密码:829114）**；
+**2.clash官方（手机版，需要代理）：<a href="https://github.com/Kr328/ClashForAndroid/releases">点击跳转</a>**；
+**3.clash官方（电脑版，需要代理）：<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">点击跳转</a>**
 
 ### 二.通过蓝奏云下载文件：（需要密码）
 **1.苹果美区账户：<a href="https://michaelzhu.lanzoub.com/b030w3p6f">点击跳转</a>**；
