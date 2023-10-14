@@ -1,7 +1,7 @@
-# 远卓私有云盘
+# 防失联！备用机场与当前账号！
 
-### 一.通过开源储存库下载文件：
-**1.github储存库（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**；
+### 一.安装配套代理软件：
+**1.clash（云盘下载）：<a href="https://michaelzhu.lanzoub.com/b032s57wd">点击跳转</a>（密码:829114）**；
 **2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
 ### 二.通过蓝奏云下载文件：（需要密码）
