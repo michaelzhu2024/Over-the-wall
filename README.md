@@ -11,10 +11,10 @@
 **1.火星互联网交换中心（官网不稳定！）：<a href="https://console.marsix.net/#/login">点击跳转</a>**；
 **2.魔戒机场（速度一般！）：<a href="https://mojie.me/#/dashboard">点击跳转</a>**；
 
-### 第三步.看看我推荐的机场：
-**1.加速软件破解包 ：<a href="https://drive.google.com/drive/folders/1ld7WI2ikSifdOfe-pJl2kKacVGCt_-mV?usp=sharing">点击跳转</a>**
-**1.火星互联网交换中心（官网不稳定！）：<a href="https://console.marsix.net/#/login">点击跳转</a>**；
-**2.魔戒机场（速度一般！）：<a href="https://mojie.me/#/dashboard">点击跳转</a>**；
+### 第三步.看看我推荐的机场（排名不分先后！）：
+**1.XFLTD机场 ：<a href="https://xftld.org/#/register?code=CzTkjzJw">点击跳转</a>（邀请码：CzTkjzJw）**
+**1.果粒橙机场：<a href="https://guolicheng.cc/index.php#/login">点击跳转</a>（邀请码：ze2OBBmu）**；
+**2.火麒麟机场：<a href="https://a.krbee.win/">最新地址页</a>（邀请码：8H4ZMNFc）**；
 
 ### 四.遇到问题？先看这里：
 
