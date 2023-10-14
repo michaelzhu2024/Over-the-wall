@@ -19,11 +19,4 @@
 ### 首次使用？试试白嫖机场！（稳定性和安全性不保证！）：
 **1.三藏云（注册送50GB流量）：<a href="https://sanzangyun.cc/#/register?code=rYIvqDqp">立即注册</a>**；
 
-### 遇到问题？先看这里：
-
-**1.下载速度慢？可以试一试<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，或者看一看<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>**；
-
-
-
-
 
