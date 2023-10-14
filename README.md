@@ -7,7 +7,7 @@
 <p>4.shadowrocket（苹果账户）：<a href="https://free.iosapp.icu/">共享账户</a>，<a href="https://yinuo123.gq/">付费账户</a>
 
 
-### 第二步.看看我正在使用的机场：
+### 第二步.看看我正在使用的机场（个人不推荐）：
 **1.火星互联网交换中心（官网不稳定！）：<a href="https://console.marsix.net/#/login">点击跳转</a>**；
 **2.魔戒机场（速度一般！）：<a href="https://mojie.me/#/dashboard">点击跳转</a>**；
 
