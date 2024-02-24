@@ -2,9 +2,10 @@
 
 ### 安装代理软件：
 <p>1.clash汇总包（云盘下载，无需代理）：<a href="https://michaelzhu.lanzoub.com/b032s57wd">点击跳转</a>（密码:829114）
-<p>2.clash官方（手机版，需要代理）：<a href="https://github.com/Kr328/ClashForAndroid/releases">点击跳转</a>
-<p>3.clash官方（电脑版，需要代理）：<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">点击跳转</a>
-<p>4.shadowrocket（苹果账户）：已失效
+<p>2.Surfboard（gitee下载）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases/tag/V1.0.4">点击跳转</a>
+<p>3.clash官方（手机版，需要代理）：<a href="https://github.com/Kr328/ClashForAndroid/releases">点击跳转</a>
+<p>4.clash官方（电脑版，需要代理）：<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">点击跳转</a>
+<p>5.shadowrocket（苹果账户）：已失效
 
 ### 备用机场：
 <p>1.XFLTD机场 ：<a href="https://xftld.org/#/register?code=CzTkjzJw">点击跳转</a>
