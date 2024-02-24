@@ -19,8 +19,6 @@
 
 ### 快速下载配置文件：
 <p>1.蓝奏云：<a href="https://michaelzhu.lanzoue.com/iAImb1padbab">点击下载</a>（密码：班级+学号）
-<p>2.？：<a href="？">点击跳转</a>
-<p>2.？：<a href="？">点击跳转</a>
   
 ### 正在使用：
 <p>1.火星互联网交换中心：<a href="https://dash.marsix.net/">官方地址</a>，<a href="http://139.177.191.91:9443/">无墙地址</a>（michael13755021245@qq.com）
