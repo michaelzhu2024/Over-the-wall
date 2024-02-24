@@ -4,7 +4,7 @@
 <p>公告：2023年11月2日Clash的作者Fndroid删除了GitHub仓库并宣布停更，但已经保存了部分版本在云盘。
 <p>1.clash汇总包（云盘下载）：<a href="https://michaelzhu.lanzoub.com/b032s57wd">点击跳转</a>（密码:829114）
 <p>2.clash汉化汇总包（云盘下载）：<a href="https://michaelzhu.lanzoue.com/b033kw99c">点击跳转</a>（密码:829114）  
-<p>3.Surfboard（gitee下载）：<a href="https://foruda.gitee.com/attach_file/1708796675848446221/surfboard.apk?token=bfa8de51b1479eed08519cc025d7848b&ts=1708797491&attname=Surfboard.apk">一键下载</a>
+<p>3.Surfboard（gitee下载）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases/tag/V1.0.4">点击跳转</a>
 <p>3.shadowrocket（苹果账户）：已失效
 
 ### 备用机场：
