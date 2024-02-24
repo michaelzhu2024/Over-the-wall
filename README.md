@@ -9,11 +9,14 @@
   
  ## 苹果账户（第三方提供）
 
-- <a href="https://free.iosapp.icu/">1号链接</a>
-- <a href="https://app.idshare.xyz/">2号链接</a>
-- <a href="https://app.idshare.xyz/">3号链接</a>
-- <a href="https://app.idshare.xyz/">4号链接</a>
-- <a href="https://app.idshare.xyz/">5号链接</a>
+- <a href="https://free.iosapp.icu/">1号链接</a>（已验证）
+- <a href="https://app.idshare.xyz/">2号链接</a>（已验证）
+- <a href="https://idshare.top/">3号链接</a>（已验证）
+- <a href="https://id.fcjs.xyz/">4号链接</a>（已验证）
+- <a href="https://appleidshare.live/">5号链接</a>（已验证）
+- <a href="">6号链接</a>
+- <a href="">7号链接</a>
+- <a href="">8号链接</a>
 
 ### 备用机场：
 <p>1.XFLTD机场 ：<a href="https://xftld.org/#/register?code=CzTkjzJw">点击跳转</a>
