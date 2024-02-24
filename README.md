@@ -11,6 +11,11 @@
 <p>2.果粒橙机场：<a href="https://guolicheng.cc/index.php#/login">点击跳转</a>
 <p>3.火麒麟机场：<a href="https://a.krbee.win/">最新地址页</a>
 <p>4.涩龙云：<a href="https://www.selom.xyz/#/login">点击跳转</a>
+
+### 快速下载配置文件：
+<p>1.？：<a href="https://dash.marsix.net/">官方地址</a>，
+<p>2.？：<a href="https://mojie.me">点击跳转</a>
+<p>2.？：<a href="https://xn--mes358a9urctx.com/">点击跳转</a>
   
 ### 正在使用：
 <p>1.火星互联网交换中心：<a href="https://dash.marsix.net/">官方地址</a>，<a href="http://139.177.191.91:9443/">无墙地址</a>（michael13755021245@qq.com）
