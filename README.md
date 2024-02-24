@@ -23,7 +23,7 @@
 <p>2.魔戒机场：<a href="https://mojie.me">点击跳转</a>（michaelzhuzyz@gmail.com）
 <p>2.顶级机场：<a href="https://xn--mes358a9urctx.com/">点击跳转</a>（michaelzhuzyz@gmail.com）
 
-### 试试白嫖机场！：
+### 白嫖机场：
 <p>1.三藏云（送50GB流量）：<a href="https://sanzangyun.cc/#/register?code=rYIvqDqp">立即注册</a>
 
 
